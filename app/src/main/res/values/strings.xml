@@ -14,7 +14,7 @@
         completions."
     </string>
     <!-- Strings related to login page -->
-    <string name="menu_button_name">Menu</string>
-    <string name="I_need_help_button">I Need Help!</string>
-    <string name="I_can_help_button">I Can Help!</string>
+    <string name="menu_button_name">Take a Survey</string>
+    <string name="I_need_help_button">View Past Results</string>
+    <string name="I_can_help_button">Find a Counselor</string>
 </resources>
